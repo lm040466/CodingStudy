@@ -15,6 +15,8 @@ int main() {
     int num;
     cin >> num;
 
-    cout << pow(2, num) - 1 << endl;
+//    cout << (int)pow(2, num) - 1 << endl;
+// double형을 사용하는 pow함수의 특성상 일정범위 이상을 출력하지 못함
+    cout << (1 << num) - 1 << endl;
     if(num < 21) hanoi(num, 1, 2, 3);
 }
