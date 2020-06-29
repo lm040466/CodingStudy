@@ -1,4 +1,4 @@
-package Baekjoon.Day1;
+package Baekjoon.No1914;
 
 import java.io.*;
 import java.math.*;
