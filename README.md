@@ -9,6 +9,7 @@
 [1260번     DFS와 BFS](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No1260)  
 [1914번     하노이탑](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No1914)  
 [2178번     미로탐색](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No2178)  
+[2583번     영역 구하기](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No2583)  
 [2745번     진법 변환](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No2745)  
 [4963번     섬의 개수](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No4963)  
 [11005번    진법 변환2](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No11005)  
