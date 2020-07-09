@@ -7,6 +7,7 @@
 ### 백준 Baekjoon
 [1012번     유기농 배추](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No1012)  
 [1260번     DFS와 BFS](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No1260)  
+[1316번     그룹 단어 체커](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No1316)  
 [1914번     하노이탑](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No1914)  
 [2178번     미로탐색](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No2178)  
 [2583번     영역 구하기](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No2583)  
