@@ -6,39 +6,28 @@ int num;
 string bracket;
 bool check;
 
-void test()
-{
+void test() {
     cin >> bracket;
     check = true;
     stack<string> stk;
 
-    for (int i = 0; i < bracket.length(); i++)
-    {
-        if (!check)
-            break;
+    for(int i = 0; i < bracket.length(); i++) {
+        if(!check) break;
         char temp = bracket[i];
-        if (temp == '(')
-            stk.push("(");
-        else
-        {
-            if (stk.empty())
-                check = false;
-            else
-                stk.pop();
+        if(temp == '(') stk.push("(");
+        else {
+            if(stk.empty()) check = false;
+            else stk.pop();
         }
     }
 
-    if (check && stk.empty())
-        cout << "YES" << endl;
-    else
-        cout << "NO" << endl;
+    if(check && stk.empty()) cout << "YES" << endl;
+    else cout << "NO" << endl;
 }
 
-int main()
-{
+int main() {
     cin >> num;
-    for (int i = 0; i < num; i++)
-    {
+    for(int i = 0; i < num; i++) {
         test();
     }
 }
