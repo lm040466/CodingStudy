@@ -24,3 +24,4 @@
 ### 프로그래머스 Programmers
 [42576번    완주하지 못한 선수](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42576)  
 [42840번    모의고사](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42840)  
+[42862번    체육복](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42862)  
