@@ -26,3 +26,4 @@
 [42588번    탑](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42588)  
 [42840번    모의고사](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42840)  
 [42862번    체육복](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42862)  
+[43165번    타겟 넘버](https://github.com/lm040466/1day1commit/tree/master/Programmers/No43165)  
