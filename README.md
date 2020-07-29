@@ -13,6 +13,7 @@
 [2583번     영역 구하기](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No2583)  
 [2609번     최대공약수와 최소공배수](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No2609)  
 [2745번     진법 변환](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No2745)  
+[2750번     수 정렬하기](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No2750)  
 [4963번     섬의 개수](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No4963)  
 [9012번     괄호](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No9012)  
 [10828번    스택](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No10828)  
@@ -27,4 +28,5 @@
 [42746번    가장 큰 수](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42746)  
 [42840번    모의고사](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42840)  
 [42862번    체육복](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42862)  
+[43165번    네트워크](https://github.com/lm040466/1day1commit/tree/master/Programmers/No43162)  
 [43165번    타겟 넘버](https://github.com/lm040466/1day1commit/tree/master/Programmers/No43165)  
