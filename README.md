@@ -23,6 +23,7 @@
 [11399번    ATM](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No11399)  
 
 ### 프로그래머스 Programmers
+[12982번    예산](https://github.com/lm040466/1day1commit/tree/master/Programmers/No12982)  
 [42576번    완주하지 못한 선수](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42576)  
 [42588번    탑](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42588)  
 [42746번    가장 큰 수](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42746)  
