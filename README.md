@@ -31,4 +31,11 @@
 [42840번    모의고사](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42840)  
 [42862번    체육복](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42862)  
 [43165번    네트워크](https://github.com/lm040466/1day1commit/tree/master/Programmers/No43162)  
-[43165번    타겟 넘버](https://github.com/lm040466/1day1commit/tree/master/Programmers/No43165)  
+[43165번    타겟 넘버](https://github.com/lm040466/1day1commit/tree/master/Programmers/No43165)
+
+### 이것이 코딩테스트다 Java for Coding Test
+#### Chapter 3 그리디
+[3 - 1번    거스름돈](https://github.com/lm040466/1day1commit/tree/master/JavaForCodingTest/No3_1)  
+[3 - 2번    큰 수의 법칙](https://github.com/lm040466/1day1commit/tree/master/JavaForCodingTest/No3_2)  
+[3 - 3번    숫자 카드 게임](https://github.com/lm040466/1day1commit/tree/master/JavaForCodingTest/No3_3)  
+[3 - 4번    1이 될 때까지](https://github.com/lm040466/1day1commit/tree/master/JavaForCodingTest/No3_4)  
