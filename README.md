@@ -39,3 +39,6 @@
 [3 - 2번    큰 수의 법칙](https://github.com/lm040466/1day1commit/tree/master/JavaForCodingTest/No3_2)  
 [3 - 3번    숫자 카드 게임](https://github.com/lm040466/1day1commit/tree/master/JavaForCodingTest/No3_3)  
 [3 - 4번    1이 될 때까지](https://github.com/lm040466/1day1commit/tree/master/JavaForCodingTest/No3_4)  
+#### Chapter 4 구현
+[4 - 1번    상하좌우](https://github.com/lm040466/1day1commit/tree/master/JavaForCodingTest/No4_1)  
+[4 - 2번    시각](https://github.com/lm040466/1day1commit/tree/master/JavaForCodingTest/No4_2)  
