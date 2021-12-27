@@ -31,7 +31,8 @@
 [42840번    모의고사](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42840)  
 [42862번    체육복](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42862)  
 [43165번    네트워크](https://github.com/lm040466/1day1commit/tree/master/Programmers/No43162)  
-[43165번    타겟 넘버](https://github.com/lm040466/1day1commit/tree/master/Programmers/No43165)
+[43165번    타겟 넘버](https://github.com/lm040466/1day1commit/tree/master/Programmers/No43165)  
+[43238번    입국심사](https://github.com/lm040466/1day1commit/tree/master/Programmers/No43238)
 
 ### 이것이 코딩테스트다 Java for Coding Test
 #### Chapter 3 그리디
@@ -43,3 +44,4 @@
 [4 - 1번    상하좌우](https://github.com/lm040466/1day1commit/tree/master/JavaForCodingTest/No4_1)  
 [4 - 2번    시각(*)](https://github.com/lm040466/1day1commit/tree/master/JavaForCodingTest/No4_2)  
 [4 - 3번    왕실의 나이트](https://github.com/lm040466/1day1commit/tree/master/JavaForCodingTest/No4_3)  
+[4 - 4번    게임 개발](https://github.com/lm040466/1day1commit/tree/master/JavaForCodingTest/No4_4)  
