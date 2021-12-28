@@ -23,6 +23,7 @@
 [11399번    ATM](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No11399)  
 
 ### 프로그래머스 Programmers
+[1844번     게임 맵 최단거리](https://github.com/lm040466/1day1commit/tree/master/Programmers/No1844)  
 [12982번    예산](https://github.com/lm040466/1day1commit/tree/master/Programmers/No12982)  
 [42576번    완주하지 못한 선수](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42576)  
 [42588번    탑](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42588)  
@@ -32,7 +33,8 @@
 [42862번    체육복](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42862)  
 [43165번    네트워크](https://github.com/lm040466/1day1commit/tree/master/Programmers/No43162)  
 [43165번    타겟 넘버](https://github.com/lm040466/1day1commit/tree/master/Programmers/No43165)  
-[43238번    입국심사](https://github.com/lm040466/1day1commit/tree/master/Programmers/No43238)
+[43238번    입국심사](https://github.com/lm040466/1day1commit/tree/master/Programmers/No43238)  
+[77486번    다단계 칫솔 판매](https://github.com/lm040466/1day1commit/tree/master/Programmers/No77486)
 
 ### 이것이 코딩테스트다 Java for Coding Test
 #### Chapter 3 그리디
