@@ -21,21 +21,31 @@
 [10872번    팩토리얼](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No10872)  
 [11005번    진법 변환2](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No11005)  
 [11399번    ATM](https://github.com/lm040466/1day1commit/tree/master/Baekjoon/No11399)  
-
+***
 ### 프로그래머스 Programmers
-[1844번     게임 맵 최단거리](https://github.com/lm040466/1day1commit/tree/master/Programmers/No1844)  
+#### Level 1
+[12901번    2016년](https://github.com/lm040466/1day1commit/tree/master/Programmers/No12901)  
+[12903번    가운데 글자 가져오기](https://github.com/lm040466/1day1commit/tree/master/Programmers/No12903)  
+[12906번    같은 숫자는 싫어](https://github.com/lm040466/1day1commit/tree/master/Programmers/No12906)  
+[12910번    나누어 떨어지는 숫자 배열](https://github.com/lm040466/1day1commit/tree/master/Programmers/No12910)  
+[12912번    두 정수 사이의 합](https://github.com/lm040466/1day1commit/tree/master/Programmers/No12912)  
 [12982번    예산](https://github.com/lm040466/1day1commit/tree/master/Programmers/No12982)  
 [42576번    완주하지 못한 선수](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42576)  
+[42840번    모의고사](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42840)  
+[42862번    체육복](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42862)  
+[86491번    최소직사각형](https://github.com/lm040466/1day1commit/tree/master/Programmers/No86491)  
+[87389번    나머지가 1이 되는 수 찾기](https://github.com/lm040466/1day1commit/tree/master/Programmers/No87389)  
+#### Level 2
+[1844번     게임 맵 최단거리](https://github.com/lm040466/1day1commit/tree/master/Programmers/No1844)  
 [42588번    탑](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42588)  
 [42746번    가장 큰 수](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42746)  
 [42839번    소수 찾기](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42839)  
-[42840번    모의고사](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42840)  
-[42862번    체육복](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42862)  
-[43165번    네트워크](https://github.com/lm040466/1day1commit/tree/master/Programmers/No43162)  
 [43165번    타겟 넘버](https://github.com/lm040466/1day1commit/tree/master/Programmers/No43165)  
+#### Level 3
+[43165번    네트워크](https://github.com/lm040466/1day1commit/tree/master/Programmers/No43162)  
 [43238번    입국심사](https://github.com/lm040466/1day1commit/tree/master/Programmers/No43238)  
-[77486번    다단계 칫솔 판매](https://github.com/lm040466/1day1commit/tree/master/Programmers/No77486)
-
+[77486번    다단계 칫솔 판매](https://github.com/lm040466/1day1commit/tree/master/Programmers/No77486)  
+***
 ### 이것이 코딩테스트다 Java for Coding Test
 #### Chapter 3 그리디
 [3 - 1번    거스름돈](https://github.com/lm040466/1day1commit/tree/master/JavaForCodingTest/No3_1)  
