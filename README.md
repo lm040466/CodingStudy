@@ -29,6 +29,7 @@
 [12906번    같은 숫자는 싫어](https://github.com/lm040466/1day1commit/tree/master/Programmers/No12906)  
 [12910번    나누어 떨어지는 숫자 배열](https://github.com/lm040466/1day1commit/tree/master/Programmers/No12910)  
 [12912번    두 정수 사이의 합](https://github.com/lm040466/1day1commit/tree/master/Programmers/No12912)  
+[12916번    문자열 내 p와 y의 개수](https://github.com/lm040466/1day1commit/tree/master/Programmers/No12916)  
 [12982번    예산](https://github.com/lm040466/1day1commit/tree/master/Programmers/No12982)  
 [42576번    완주하지 못한 선수](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42576)  
 [42840번    모의고사](https://github.com/lm040466/1day1commit/tree/master/Programmers/No42840)  
